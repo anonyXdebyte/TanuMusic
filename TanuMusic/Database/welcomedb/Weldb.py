@@ -1,4 +1,4 @@
-from TanuMusic.CuteDb import *
+from TanuMusic.Database.welcomedb import *
 
 wlcm = dbname["welcome"]
 
