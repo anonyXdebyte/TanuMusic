@@ -1,5 +1,5 @@
 aiofiles
-aiohttp==3.8.4
+aiohttp==3.10.2
 asyncio==3.4.3
 beautifulsoup4
 dnspython
@@ -12,7 +12,7 @@ heroku3
 pykeyboard
 pyshorteners
 motor==3.4.0
-pillow==9.5.0
+pillow==10.3.0
 psutil
 py-tgcalls==0.9.7
 pykeyboard
@@ -25,7 +25,7 @@ spotipy
 wget
 tgcrypto
 unidecode
-yt-dlp==2023.10.13
+yt-dlp==2024.7.7
 youtube-search
 youtube-search-python
 pornhub-api==0.3.0
